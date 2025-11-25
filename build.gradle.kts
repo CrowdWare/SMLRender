@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "at.crowdware.sml"
-version = "0.1.0"
+version = "0.2.11"
 
 repositories {
     mavenLocal()
